@@ -1,0 +1,1 @@
+/Users/wonkijo/Projects_Android/LoginDemo/buildSrc/build/classes/kotlin/main/ApplicationId.class:/Users/wonkijo/Projects_Android/LoginDemo/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/wonkijo/Projects_Android/LoginDemo/buildSrc/build/classes/kotlin/main/Versions.class
