@@ -1,14 +1,12 @@
 .gradle
 /local.properties
 /build
+/buildSrc/build
 /buildSrc/subprojects/*/build
 
 # IDEA
-# ----
-!/.idea
+.idea/
 /.idea/*
-!/.idea/codeStyles
-!/.idea/inspectionProfiles
 */**/.idea
 .shelf
 *.iml
